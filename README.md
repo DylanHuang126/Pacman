@@ -2,11 +2,11 @@
 
 
 ## **Team members**
-**Team Lead:**           Bill Huang<br>
-**Tech Lead:**           Jerry Zhang<br>
-**Doc Lead:**            Zhengtong Liu<br>
-**Frontend Developer:**  Jeff Zhou, Yang Zhou<br>
-**Backend Developer:**   Lou Jianing, Zhen Gao
+**Team Lead:**           Bill<br>
+**Tech Lead:**           Jerry<br>
+**Doc Lead:**            Zhengtong<br>
+**Frontend Developer:**  Jeff, Yang<br>
+**Backend Developer:**   Jianing, Zhen
 
 Deployed on Heroku: https://pacman-final-team-quicksilver.herokuapp.com/
 
